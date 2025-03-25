@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+.env
+*.venv
+.venv
+*.egg-info/
+dist/
+build/
+
+# Ruby
+*.gem
+*.rbc
+.bundle/
+vendor/bundle/
+log/
+tmp/
+*.log
+*.sqlite3
+*.sqlite3-journal
+*.rvmrc
+.rvm/
+.rbenv/
+.ruby-version
+.ruby-gemset
+
+# JavaScript/Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+dist/
+build/
+.DS_Store
+.env
+
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.vs/
+.vscode/
+project.lock.json
+project.fragment.lock.json
+artifacts/
